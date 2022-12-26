@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761661093422",
+    "project_id": "baby-buy-dd102",
+    "storage_bucket": "baby-buy-dd102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761661093422:android:8507683c6695fc36d051bf",
+        "android_client_info": {
+          "package_name": "com.example.babybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761661093422-fj41dmvctso6cette1ns65ohmblc925n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQx5LumAyplWyHRTtk_z0_9mNrg_8BBqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761661093422-fj41dmvctso6cette1ns65ohmblc925n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
